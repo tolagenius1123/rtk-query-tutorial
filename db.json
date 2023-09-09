@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Franklin Ogomaka",
+      "email": "franklinfresh@gmail.com",
+      "contact": "09037383441",
+      "id": 2
+    },
+    {
+      "name": "James Bond",
+      "email": "jamesbond@gmail.com",
+      "contact": "08141366380",
+      "id": 3
+    },
+    {
+      "name": "Jinadu Omotola",
+      "email": "tolajinadu1123@gmail.com",
+      "contact": "08141366380",
+      "id": 5
+    },
+    {
+      "name": "remidious enefola",
+      "email": "remidious@gmail.com",
+      "contact": "09028272009",
+      "id": 6
+    }
+  ]
+}
